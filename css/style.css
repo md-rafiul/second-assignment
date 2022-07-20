@@ -1,0 +1,34 @@
+/* ------------
+    Universal 
+------------*/
+
+body {
+  margin: 0;
+}
+
+/* ----------------
+    Header Banner
+    ------------ */
+.header-bg {
+  background: #eedada;
+
+  position: absolute;
+  width: 1321px;
+  height: 646px;
+  left: 140px;
+  top: 50px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.header-info {
+  width: 50%;
+  justify-content: center;
+}
+.header-pic img {
+  width: 581px;
+  height: 613px;
+  margin: 33px 33px 0px 33px;
+}
